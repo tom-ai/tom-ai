@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on improving my front-end skills
-- 🌱 I’m currently learning TypeScript
-- 💬 Ask me about music and the saxophone
+- 🔭 I’m currently working on my portfolio!
+- 🌱 I’m currently learning TypeScript with help from https://www.typescriptlang.org/docs/
+- 💬 Ask me about music
 
 <!--
 **tom-ai/tom-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
