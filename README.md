@@ -1,8 +1,12 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my portfolio!
-- 🌱 I’m currently learning TypeScript with help from https://www.typescriptlang.org/docs/
+
 
 <!--
+
+- 🌱 I’m currently learning TypeScript with help from https://www.typescriptlang.org/docs/
+
+
 **tom-ai/tom-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
