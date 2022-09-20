@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently building a tempo tool for musicians
+- 🌱 I’m currently building a tempo tool for musicians
 
 <!--
 
