@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my portfolio!
-
+- 🔭 I’m currently building a tempo tool for musicians
 
 <!--
 
