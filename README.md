@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently building a tempo tool for musicians
+- 🌱 I’m looking for a junior software developmer role
+- 🎶 I’m currently building a music tool web app with [@mjhxmjh](https://github.com/mjhxmjh)
+- 📫 How to reach me: tomharris3@me.com
 
 <!--
 
