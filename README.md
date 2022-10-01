@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m looking for a junior software developmer role
-- 🎶 I’m currently building a music tool in Next.js with [@mjhxmjh](https://github.com/mjhxmjh)
+- 🌱 I’m looking for a Junior Software Developer role
+- 🎶 I’m currently building a music tool with [@mjhxmjh](https://github.com/mjhxmjh) using Next.js
 - 📫 How to reach me: tomharris3@me.com
 
 <!--
