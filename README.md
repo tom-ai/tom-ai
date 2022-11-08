@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m looking for a Junior Software Developer role
-- 🎶 I’m coding a metronome app with [@mjhxmjh](https://github.com/mjhxmjh) using Next.js
+- 🌱 I’m currently learning C#
+- 🎶 I’m building a metronome app with [@mjhxmjh](https://github.com/mjhxmjh)
 - 📫 How to reach me: tomharris3@me.com
 
 <!--
