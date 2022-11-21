@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning .NET and C#
-- 🎶 I’m building a metronome app with [@mjhxmjh](https://github.com/mjhxmjh)
+- 🎶 I like creating tools for musicians with [@mjhxmjh](https://github.com/mjhxmjh)
 - 📫 How to reach me: tomharris3@me.com
 
 <!--
