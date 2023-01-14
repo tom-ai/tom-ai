@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning .NET and C#
-- 🎶 I like creating tools for musicians with [@mjhxmjh](https://github.com/mjhxmjh)
+- 🌱 I’m currently using React JS and TypeScript with .NET and C#
+- 🎶 I like creating helpful tools for musicians (with [@mjhxmjh](https://github.com/mjhxmjh))
 - 📫 How to reach me: tomharris3@me.com
 
 <!--
