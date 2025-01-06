@@ -1,7 +1,9 @@
 ### Hi there 👋
-- 🌱 I’m currently using React JS and TypeScript with .NET and C#
+- 🌱 I’m currently using React and TypeScript
 - 🎶 I like creating helpful tools for musicians (with [@mjhxmjh](https://github.com/mjhxmjh))
 - 📫 How to reach me: tomharris3@me.com
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tom-ai&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 
